@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\C#Nov\Day2\bin\Debug\Day2.exe.config
+C:\Users\User\source\repos\C#Nov\Day2\bin\Debug\Day2.exe
+C:\Users\User\source\repos\C#Nov\Day2\bin\Debug\Day2.pdb
+C:\Users\User\source\repos\C#Nov\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#Nov\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#Nov\Day2\obj\Debug\Day2.exe
+C:\Users\User\source\repos\C#Nov\Day2\obj\Debug\Day2.pdb
